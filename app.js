@@ -6,6 +6,7 @@ const _ = require('lodash');
 const yargs = require('yargs');
 
 var user=os.userInfo();
+var u;
 //console.log(user);
 
 // var res = notes.addNote();
